@@ -37,13 +37,10 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Dutch
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
+    - idiom: English
       level: Professional
 
   interests:
