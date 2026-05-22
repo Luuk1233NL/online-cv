@@ -77,7 +77,7 @@ education:
       #pretium quis, sem.
        # - Bullet point
         #- Bullet point
-  - degree: Verzorgende IG MBO 3
+  - degree: Healtcare Assistant MBO 3
     university: Graafschap College, Doetinchem
     #time: 
     #details: |
@@ -88,44 +88,36 @@ education:
       #pretium quis, sem.
        # - Bullet point
        # - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - degree: VMBO-T (secondary school)
+    university: Liemers College, Zevenaar
+    #time:
+    #details: |
+      #Describe your study here lorem ipsum dolor sit amet, consectetuer
+      #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      #sociis natoque penatibus et magnis dis parturient montes, nascetur
+      #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      #pretium quis, sem.
+       # - Bullet point
+       # - Bullet point
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Personal Support Worker
+    time: April 2026 - currently
+    company: 's Heeren Loo, Apeldoorn
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      As a personal support worker am I responsible for the care of a dedicated group of clients.
+      I develop personal care plans, provide support with daily care and guidance. I work closely
+      with family and other care providers. Alongside this I'm working as a nurse. 
+  - role: Nurse
+    time: May 2025- April 2026
+    company: 's Heeren Loo, Apeldoorn
+    details: #|
+      #Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #Cum sociis natoque penatibus et magnis dis parturient montes,
+      #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
   - role: UI Developer
