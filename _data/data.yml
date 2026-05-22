@@ -17,7 +17,7 @@ sidebar:
   phone: 012 345 6789
   timezone: Netherlands/CET # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Dutch
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  #website: https://example.com/ # Include the full website URL, including "http:
   linkedin: alandoe
   xing: alandoe
   github: jekyll
