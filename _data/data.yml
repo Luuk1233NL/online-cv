@@ -120,162 +120,134 @@ experiences:
       #pellentesque eu, pretium quis, sem.
         #- Bullet point
         #- Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+  - role: Personal Support Worker
+    time: December. 2024 - April. 2025
+    company: Elver, Didam
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
-certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+     As a personal support worker am I responsible for the care of a dedicated group of clients.
+      I develop personal care plans, provide support with daily care and guidance. I work closely
+      with family and other care providers. Alongside this I'm working as a nurse.
+  - role: Care innovation employee
+    time: April. 2022 - April. 2025
+    company: Elver, Nieuw Wehl
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      As care innovation employee, I was part of a work group dedicated to bring the digital world
+      closer to clients. I provided advice on the use of various innovation, explained how they work
+      and gave training sessions to colleagues and schools about the importance of innovation in healthcare. 
+  - role: Disability care worker
+    time: November. 2021 - December. 2024
+    company: Elver, Didam
+    #details: |
+      #Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #Cum sociis natoque penatibus et magnis dis parturient montes,
+      #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #pellentesque eu, pretium quis, sem.
+        #- Bullet point
+        #- Bullet point  - 
+    role: Disability care worker
+    time: November. 2020 - July. 2021
+    company: Philadelphia, Brummen
+   # details: |
+      #Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #Cum sociis natoque penatibus et magnis dis parturient montes,
+      #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #pellentesque eu, pretium quis, sem.
+        #- Bullet point
+        #- Bullet point  - 
+    role: Healtcare Assistant in training
+    time: August. 2018 - July. 2020
+    company: Philadelphia, Brummen
+    #details: |
+      #Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #Cum sociis natoque penatibus et magnis dis parturient montes,
+      #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #pellentesque eu, pretium quis, sem.
+        #- Bullet point
+        #- Bullet point
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+#certifications:
+  #title: Certifications
+  #list:
+  #- name: 
+    #start: 
+    #end: 
+    #organization: 
+    #credentialid: 
+    #credentialurl:
+    #credentialname: 
+    #details: |
+  - #name: 
+    #start: 
+    #end:
+    #organization: 
+    #credentialid: 
+    #credentialurl: 
+    #credentialname:
+    #details: |
+      
+      
 
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#projects:
+  #title: Projects
+  #intro: >
+    #You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  #assignments:
+  #- title: 
+    #link: "#hook"
+    #tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  
+#oss:
+  #title: OSS Contributions
+  #intro: >
+    #You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  #contributions:
+  #- title: Tempo
+    #link: "#"
+    #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#publications:
+  #title: Publications
+  #intro: |
+    #You can list your publications in this section. Lorem ipsum dolor sit
+    #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #bibendum fringilla a eu lectus.
+  
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+#recommendations:
+  #title: Recommendations
+  #list:
+  - #person: 
+    #email: 
+    #phone: 
+    #role: 
+    #recommendation: |
+  
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: Python
+    level: 15%
 
-  - name: Javascript & jQuery
-    level: 98%
+  - name: Docker
+    level: 15%
 
-  - name: Angular
-    level: 98%
+  - name: Linux 
+    level: 20%
 
-  - name: HTML5 & CSS
-    level: 95%
+  - name: VS code
+    level: 25% 
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: Windows
+    level: 75%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  #- name: 
+   # level: 
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
