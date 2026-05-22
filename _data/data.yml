@@ -14,7 +14,7 @@ sidebar:
 
   # Sidebar links
   email: luukbosch@proton.me 
-  phone: 012 345 6789
+  #phone:
   timezone: Netherlands/CET # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Dutch
   #website: https://example.com/ # Include the full website URL, including "http:
@@ -249,5 +249,5 @@ skills:
   - name: Analytical thinking
     level: 70%
 
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+  #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
