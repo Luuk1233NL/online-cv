@@ -228,26 +228,26 @@ experiences:
   
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Soft Skills &amp; 
 
   toolset:
-  - name: Python
-    level: 15%
+  - name: Communication
+    level: 80%
 
-  - name: Docker
-    level: 15%
-
-  - name: Linux 
-    level: 20%
-
-  - name: VS code
-    level: 25% 
-
-  - name: Windows
+  - name: Collaboration
     level: 75%
 
-  #- name: 
-   # level: 
+  - name: Empathy 
+    level: 90%
+
+  - name: Problem solving
+    level: 70% 
+
+  - name: Eagerness to learn
+    level: 85%
+
+  - name: Analytical thinking
+    level: 70%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
