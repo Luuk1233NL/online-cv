@@ -102,6 +102,13 @@ education:
 experiences:
   title: Experiences
   info:
+  - role: Student HBO-IT BIM
+    time: February 2026 - currently
+    school: HAN
+    details: |
+      I'm a first year student in the bachelor's degree HBO-IT BIM profile. BIM stands for Business IT & Management.
+      outside of my studies, I actively explore Linux, Docker and Git out of personal interest and I'm constantly looking
+      for ways to broaden my technical skills.I
   - role: Personal Support Worker
     time: April 2026 - currently
     company: "'s Heeren Loo, Apeldoorn"
