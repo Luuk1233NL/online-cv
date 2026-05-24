@@ -103,21 +103,21 @@ experiences:
   title: Experiences
   info:
   - role: Student HBO-IT BIM
-    time: February 2026 - currently
+    time: February. 2026 - currently
     school: HAN
     details: |
       I'm a first year student in the bachelor's degree HBO-IT BIM profile. BIM stands for Business IT & Management.
       outside of my studies, I actively explore Linux, Docker and Git out of personal interest and I'm constantly looking
       for ways to broaden my technical skills.
   - role: Personal Support Worker
-    time: April 2026 - currently
+    time: April. 2026 - currently
     company: "'s Heeren Loo, Apeldoorn"
     details: |
       As a personal support worker am I responsible for the care of a dedicated group of clients.
       I develop personal care plans, provide support with daily care and guidance. I work closely
       with family and other care providers. Alongside this I'm working as a nurse. 
   - role: Nurse
-    time: May 2025- April 2026
+    time: May. 2025- April. 2026
     company: "'s Heeren Loo, Apeldoorn"
     #details: |
       #Describe your role here lorem ipsum dolor sit amet, consectetuer
