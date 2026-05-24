@@ -103,21 +103,21 @@ experiences:
   title: Experiences
   info:
   - role: Student HBO-IT BIM
-    time: February. 2026 - currently
+    time: February 2026 - currently
     company: HAN
     details: |
       I'm a first year student in the bachelor's degree HBO-IT BIM profile. BIM stands for Business IT & Management.
       outside of my studies, I actively explore Linux, Docker and Git out of personal interest and I'm constantly looking
       for ways to broaden my technical skills.
   - role: Personal Support Worker
-    time: April. 2026 - currently
+    time: April 2026 - currently
     company: "'s Heeren Loo, Apeldoorn"
     details: |
       As a personal support worker am I responsible for the care of a dedicated group of clients.
       I develop personal care plans, provide support with daily care and guidance. I work closely
       with family and other care providers. Alongside this I'm working as a nurse. 
   - role: Nurse
-    time: May. 2025- April. 2026
+    time: May 2025- April 2026
     company: "'s Heeren Loo, Apeldoorn"
     #details: |
       #Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -128,21 +128,21 @@ experiences:
         #- Bullet point
         #- Bullet point
   - role: Personal Support Worker
-    time: December. 2024 - April. 2025
+    time: December 2024 - April 2025
     company: Elver, Didam
     details: |
      As a personal support worker am I responsible for the care of a dedicated group of clients.
       I develop personal care plans, provide support with daily care and guidance. I work closely
       with family and other care providers. Alongside this I'm working as a nurse.
   - role: Care innovation employee
-    time: April. 2022 - April. 2025
+    time: April 2022 - April 2025
     company: Elver, Nieuw Wehl
     details: |
       As care innovation employee, I was part of a work group dedicated to bring the digital world
       closer to clients. I provided advice on the use of various innovation, explained how they work
       and gave training sessions to colleagues and schools about the importance of innovation in healthcare. 
   - role: Disability care worker
-    time: November. 2021 - December. 2024
+    time: November 2021 - December 2024
     company: Elver, Didam
     #details: |
       #Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -153,7 +153,7 @@ experiences:
         #- Bullet point
         #- Bullet point  - 
     role: Disability care worker
-    time: November. 2020 - July. 2021
+    time: November 2020 - July 2021
     company: Philadelphia, Brummen
    # details: |
       #Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -164,7 +164,7 @@ experiences:
         #- Bullet point
         #- Bullet point  - 
     role: Healtcare Assistant in training
-    time: August. 2018 - July. 2020
+    time: August 2018 - July 2020
     company: Philadelphia, Brummen
     #details: |
       #Describe your role here lorem ipsum dolor sit amet, consectetuer
